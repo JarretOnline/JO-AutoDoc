@@ -1,3 +1,19 @@
-# JO-AutoDoc
+# Details
 
-Use /help to be revived, after a small delay, when EMS is offline! 
+Use the /help command to dispatch a mobile EMS for healing!
+
+# Framework
+https://github.com/qbcore-framework
+
+# Dependencies
+
+None
+
+# Optional
+
+None
+
+# Purchased
+
+None
+
